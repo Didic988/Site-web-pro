@@ -168,6 +168,10 @@ p.frame-title {
 img.frame-image {
     width: 100px;
 }
+div.frame-table {
+    margin-left: 15%;
+    margin-right: 15%;
+}
 
 /* PORTFOLIO */
 .portfolio-header {
@@ -263,7 +267,7 @@ img.portfolio-image{
         margin-right: 8px;
     }
     iframe {
-        height: 250px;
+        height: 270px;
     }
     div.frame {
         margin: 0;
@@ -272,6 +276,10 @@ img.portfolio-image{
     }
     img.frame-image {
         width: 70px;
+    }
+    div.frame-table {
+        margin-left: 0;
+        margin-right: 0;
     }
 
     /* PORTFOLIO */
